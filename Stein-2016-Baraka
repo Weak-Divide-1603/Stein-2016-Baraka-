@@ -11088,7 +11088,7 @@ campaignTrail_temp.jet_data = [{
             "operator": "<",
             "value": 0,
             "endingImage": "https://d.newsweek.com/en/full/2497948/jill-stein.webp?w=790&f=e7b7ea0a7ef4df0551918dfb4c86d4d5",
-            "endingText": "<h3>Jill, you didn’t even get 5% of the vote</p>Jill, unfortunately, the controversies hurt you too much, and the 5% goal may have been too ambitious. However, if you received more than 2%, it’s certainly not a terrible result. If you even outperformed Nader in 2000, then the Green Party has no reason to be disappointed.",
+            "endingText": "<h3>Jill, you didn’t even get 5% of the vote</h3>Jill, unfortunately, the controversies hurt you too much, and the 5% goal may have been too ambitious. However, if you received more than 2%, it’s certainly not a terrible result. If you even outperformed Nader in 2000, then the Green Party has no reason to be disappointed.",
             "amount": "5"
         },
         "1731607927493": {
@@ -11097,7 +11097,7 @@ campaignTrail_temp.jet_data = [{
             "operator": ">",
             "value": 0,
             "endingImage": "https://media.npr.org/assets/img/2016/08/06/gettyimages-478193146_slide-78211b6f96b0cd7f30112258ff42b7bd4c409fce.jpg?s=1100&c=85&f=webp",
-            "endingText": "<h3>YOU DID IT! YOU DID JILL!</p>You didn’t just outperform Ralph Nader—you actually reached 5%! This is a surprising outcome, given that the last polls showed you around 3%. You're certainly going to be very popular after this election and well-known, as you've accomplished what 85% of third-party candidates couldn’t. You might even consider following a path like Ventura’s or running for Congress. The choice is all yours, Jill!",
+            "endingText": "<h3>YOU DID IT! YOU DID JILL!</h3>You didn’t just outperform Ralph Nader—you actually reached 5%! This is a surprising outcome, given that the last polls showed you around 3%. You're certainly going to be very popular after this election and well-known, as you've accomplished what 85% of third-party candidates couldn’t. You might even consider following a path like Ventura’s or running for Congress. The choice is all yours, Jill!",
             "amount": "5"
         }
     }
